@@ -1,2 +1,3 @@
-# Google-Developer-Nanodegree-Scholarship
+# Google Developer Nanodegree Scholarship
+
 Helpful links, AMAs and more
