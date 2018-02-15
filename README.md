@@ -24,3 +24,7 @@ Next AMA: **Friday, Feb 16 – 11AM-12PM CET** | [AMA schedule](https://sites.go
 #9: 22.02.2018 | 4PM-5PM CET
 
 #10: 23.02.2018 | 4PM-5PM CET
+
+## Links
+
+[Subreddit for MWS](https://www.reddit.com/r/udacitymws/)
