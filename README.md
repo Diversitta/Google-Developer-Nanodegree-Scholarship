@@ -9,7 +9,7 @@ Next AMA: Thursday, 4PM-5PM CET
 
 [#1: 15.02.2018 | 11AM-12PM CET](https://github.com/rothdennis/Google-Developer-Nanodegree-Scholarship/blob/master/AMAs/15-02-2018.md)
 
-#2: 15.02.2018| 4PM-5PM CET
+[#2: 15.02.2018 | 4PM-5PM CET](https://github.com/rothdennis/Google-Developer-Nanodegree-Scholarship/blob/master/AMAs/15-02-2018-2.md)
 
 #3: 16.02.2018 | 11AM-12PM CET
 
