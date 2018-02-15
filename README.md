@@ -3,9 +3,7 @@
 Helpful links, AMAs and more
 
 ## AMAs
-Next AMA: **Friday, Feb 16 – 11AM-12PM CET**
-
-[AMA schedule](https://sites.google.com/knowlabs.com/gdnd2017/updates)
+Next AMA: **Friday, Feb 16 – 11AM-12PM CET** | [AMA schedule](https://sites.google.com/knowlabs.com/gdnd2017/updates)
 
 [#1: 15.02.2018 | 11AM-12PM CET](https://github.com/rothdennis/Google-Developer-Nanodegree-Scholarship/blob/master/AMAs/15-02-2018.md)
 
