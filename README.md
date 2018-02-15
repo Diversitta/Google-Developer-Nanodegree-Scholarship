@@ -3,7 +3,7 @@
 Helpful links, AMAs and more
 
 ## AMAs
-Next AMA: Thursday, 4PM-5PM CET
+Next AMA: **Friday, Feb 16 – 11AM-12PM CET**
 
 [AMA schedule](https://sites.google.com/knowlabs.com/gdnd2017/updates)
 
